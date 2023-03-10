@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **stanciuruben/stanciuruben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 📫 Email me at: **stanciu.ruben20@gmail**.com
 - ⚡ Fun fact: Life is hard, but at least coding is fun!.
--->
