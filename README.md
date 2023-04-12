@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+React + Next + Typescript + Express + SQL
+
 - 🔭 I’m currently working on a fullstack study facilitation app.
-- 🌱 I’m currently learning about Backend in general.
-- 👯 I’m looking to collaborate on anything that I can bring value to.
-- 💬 Ask me about anything!
+- 🌱 I’m currently learning to be a better person.
+- 👯 I’m looking to collaborate on fullstack projects.
 - 📫 Email me at: **stanciu.ruben20@gmail**.com
-- ⚡ Fun fact: Life is hard, but at least coding is fun!.
